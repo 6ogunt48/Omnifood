@@ -1,1 +1,1 @@
- A fictional fod dleivery compnay project used for learning html and css
+ A fictional food delivery company project used for learning html and css
